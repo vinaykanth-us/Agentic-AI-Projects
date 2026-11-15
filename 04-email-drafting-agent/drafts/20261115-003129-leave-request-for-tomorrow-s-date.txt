@@ -1,0 +1,15 @@
+Subject: Leave Request for [Tomorrow's Date]
+Intent: leave
+Instruction: Write a leave request for tomorrow
+
+Dear [Manager's Name],
+
+I am writing to request leave for [Tomorrow's Date].
+
+I will make sure my current work is handed over before then, and I will be available on email if anything urgent comes up.
+
+Thank you for your understanding.
+
+Kind regards,
+[Your Name]
+[Your Phone Number]

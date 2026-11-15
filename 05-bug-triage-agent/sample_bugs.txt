@@ -1,0 +1,5 @@
+Payment succeeds but order remains pending.
+Typo in welcome message on homepage, it says "Welcom" instead of "Welcome".
+Dashboard takes 30 seconds to load and the page freezes when filtering large reports.
+App crashes on startup and user data is lost after the update.
+Login button does nothing when clicked on mobile Safari.

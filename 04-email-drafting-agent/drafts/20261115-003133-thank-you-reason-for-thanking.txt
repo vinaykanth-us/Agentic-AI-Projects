@@ -1,0 +1,15 @@
+Subject: Thank You — [Reason for Thanking]
+Intent: thank_you
+Instruction: Write a thank-you email to my professor
+
+Dear [Professor's Name],
+
+Thank you very much for your time and guidance. I really appreciated [what they helped you with].
+
+Your advice has helped me a lot, and I will keep working on [what you will do next].
+
+Thank you again.
+
+Kind regards,
+
+[Your Name]

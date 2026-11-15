@@ -1,0 +1,33 @@
+SAMPLE DATA — fictional resume created only for testing this project.
+No real person is described here.
+
+Alex Carter
+Data Analyst
+Email: alex.carter@example.com | Phone: 555-010-1234
+
+SUMMARY
+Data analyst with 3 years of experience turning raw data into clear
+dashboards and reports for business teams.
+
+SKILLS
+Python, SQL, Microsoft Excel, Microsoft Power BI, Tableau, data cleaning,
+data visualisation, and basic statistics.
+
+EXPERIENCE
+Junior Data Analyst, Northwind Retail, 2023 - Present
+- Built weekly sales dashboards in Power BI for store managers.
+- Cleaned and joined sales data in SQL and Python.
+- Wrote monthly reports summarising sales trends.
+
+Data Intern, City Library, 2022 - 2023
+- Organised catalogue data in Excel.
+- Created simple charts in Tableau for the library team.
+
+EDUCATION
+B.Sc. Information Technology, State University, 2022
+Relevant courses: Database Management, Statistics, Programming in Python.
+
+PROJECTS
+- Sales Dashboard: a Power BI dashboard tracking weekly sales by store.
+- Customer Survey Analysis: cleaned survey data in Python and summarised
+  the results in Excel.

@@ -1,0 +1,5 @@
+# Email Drafting Agent — Project 4 of 5
+# Standard library ONLY — no third-party packages are needed.
+# Python 3.10+ (tested with Python 3.12).
+# Run the tests with:  python -m unittest test_agent -v
+# Run the agent with: python main.py "Write a leave request for tomorrow"

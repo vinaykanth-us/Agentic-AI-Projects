@@ -1,0 +1,3 @@
+# Standard library only — no third-party dependencies to install.
+# Run with any Python 3.10+ install:
+#   python main.py "Finish assignment, exercise and attend meeting at 4 PM"

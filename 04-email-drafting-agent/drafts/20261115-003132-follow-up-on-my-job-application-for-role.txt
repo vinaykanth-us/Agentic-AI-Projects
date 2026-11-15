@@ -1,0 +1,15 @@
+Subject: Follow-Up on My Job Application for [Role]
+Intent: follow_up
+Instruction: Follow up on my job application
+
+Dear [Hiring Manager's Name],
+
+I hope you are doing well. I am writing to follow up on my application for the [Role] position at [Company Name], submitted on [Date Submitted].
+
+I remain very interested in the role and would be glad to share any further information you may need.
+
+Thank you for your time and consideration.
+
+Kind regards,
+[Your Name]
+[Your Phone Number]
